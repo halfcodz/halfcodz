@@ -1,15 +1,21 @@
 <div align="center">
-  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1683680980/noticon/ofgymrzrsku11otwlv6a.gif" width="65" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ff9e9e&height=120&text=Hi,%20I'm%20halfcodz&animation=&fontColor=ffffff&fontSize=50" />
-  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1683680980/noticon/ofgymrzrsku11otwlv6a.gif" width="65" />
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1683680980/noticon/ofgymrzrsku11otwlv6a.gif" width="45" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ff9e9e&height=120&text=Hi,%20I'm%20halfcodz&animation=&fontColor=ffffff&fontSize=50" width="70%" />
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1683680980/noticon/ofgymrzrsku11otwlv6a.gif" width="45" />
+</div>
+
+<br />
+
+<div align="center">
+  <h2>
+    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1683680980/noticon/ofgymrzrsku11otwlv6a.gif" width="35" />
+    꾸준히 성장하는 개발자
+    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1683680980/noticon/ofgymrzrsku11otwlv6a.gif" width="35" />
+  </h2>
 </div>
 
 <div align="left">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
-    꾸준히 성장하는 개발자
-  </h2>
-
-  <ul style="font-weight: 700; font-size: 15px; color: #282d33;">
+  <ul>
     <li>저는 성장하는 것을 꾸준히 고민하며, 배운 내용을 실제 프로젝트에 적용하는 개발자입니다.</li>
     <li>문제를 해결하는 과정에서 더 나은 코드와 구조를 고민합니다.</li>
     <li>새로운 기술을 배우고 기록하며, 협업과 소통을 중요하게 생각합니다.</li>
@@ -17,7 +23,7 @@
 </div>
 
 <div align="left">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
+  <h2>
     🛠️ Tech Stacks
   </h2>
 
@@ -36,8 +42,10 @@
   </div>
 </div>
 
+<br />
+
 <div align="left">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
+  <h2>
     📁 Projects
   </h2>
 </div>
