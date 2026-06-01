@@ -51,27 +51,3 @@
     </a>
   </div>
 </div>
-
-<div align="left">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
-    📊 Most Used Languages
-  </h2>
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfcodz&layout=compact&theme=default&hide_border=true"
-    alt="Top Languages"
-  />
-</div>
-
-<br />
-
-<div align="left">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
-    📈 GitHub Activity
-  </h2>
-
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=halfcodz&theme=minimal&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</div>
