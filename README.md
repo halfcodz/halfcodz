@@ -1,5 +1,7 @@
 <div align="center">
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1683680980/noticon/ofgymrzrsku11otwlv6a.gif" width="65" />
   <img src="https://capsule-render.vercel.app/api?type=soft&color=ff9e9e&height=120&text=Hi,%20I'm%20halfcodz&animation=&fontColor=ffffff&fontSize=50" />
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1683680980/noticon/ofgymrzrsku11otwlv6a.gif" width="65" />
 </div>
 
 <div align="left">
